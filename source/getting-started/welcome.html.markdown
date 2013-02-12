@@ -80,10 +80,6 @@ Middleman ships with a number of basic project templates:
 
     middleman init my_new_mobile_project --template=html5
 
-**[HTML5 Boilerplate: HAML & SCSS](https://github.com/dannyprose/Middleman-HTML5BP-HAML)**
-
-    middleman init my_new_mobile_project --template=html5-haml
-    
 **[SMACSS](https://github.com/nsteiner/middleman-smacss)**
 
     middleman init my_new_mobile_project --template=smacss
